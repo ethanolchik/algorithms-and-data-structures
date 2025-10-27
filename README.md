@@ -1,2 +1,2 @@
-# Cool-Projects
-A collection of small projects which I created to understand computing concepts better
+# Algorithms & Data Structures
+A collection of algorithm and data structure implementations in Java to improve my understanding of programming concepts better.
